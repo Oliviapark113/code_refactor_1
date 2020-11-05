@@ -46,5 +46,8 @@ or  change tag name.
 
 -- add :root  for colors easier to change colors later on. 
 
+---File Path --- 
+
+File path for CSS and images needs to be revised in order to view on gitHub pages.
 
 
