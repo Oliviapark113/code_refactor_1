@@ -60,8 +60,9 @@ or  change tag name.
 - reduced size of main image and font-sizes 
 - all sections and asides elements shows in rows . 
 - **responsive view**
- <img width="489" alt="Screen Shot 2020-11-06 at 4 23 12 PM" src="https://user-images.githubusercontent.com/70460020/98417881-c3896a00-204f-11eb-8633-f5795068db9b.png">
-<img width="534" alt="Screen Shot 2020-11-07 at 3 34 09 PM" src="https://user-images.githubusercontent.com/70460020/98451093-aff20800-2110-11eb-8f3f-e7d1744a52e9.png">
+
+<img width="549" alt="Screen Shot 2020-11-07 at 4 01 55 PM" src="https://user-images.githubusercontent.com/70460020/98451330-a9649000-2112-11eb-9143-06404e88318e.png">
+ <img width="534" alt="Screen Shot 2020-11-07 at 3 34 09 PM" src="https://user-images.githubusercontent.com/70460020/98451093-aff20800-2110-11eb-8f3f-e7d1744a52e9.png">
 <img width="534" alt="Screen Shot 2020-11-07 at 3 34 25 PM" src="https://user-images.githubusercontent.com/70460020/98451095-b2546200-2110-11eb-8a34-06d393e20def.png">
 <img width="535" alt="Screen Shot 2020-11-07 at 3 34 36 PM" src="https://user-images.githubusercontent.com/70460020/98451098-b41e2580-2110-11eb-93ca-3c360a128527.png">
 
